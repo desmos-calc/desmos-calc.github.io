@@ -2,7 +2,7 @@
 The site you're on is the developer information for DesGames. The project is currently in ``beta`` right now, but you can find all of the developer information on this site.
 
 ## Games
- - PolyTrack
+ - [PolyTrack](https://desmos-calc.github.io/polytrack/)
 
 ## Updates
 
